@@ -20,11 +20,13 @@
 **Link(s) to work**: [web development](https://www.theodinproject.com/courses/web-development-101/)
 
 
-### Day 1: June 27, Monday
+### Day 2: September 26, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through the introduction to fron-end development on odin project and starting project for google homepage.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** : Trying to use bootstrap to do project. Hoping to be consistent and successful solving challenges
+
+<!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
