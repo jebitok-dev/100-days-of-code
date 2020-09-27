@@ -26,6 +26,12 @@
 
 **Thoughts** : Trying to use bootstrap to do project. Hoping to be consistent and successful solving challenges
 
+### Day 3: September 27, 2020
+
+**Today's Progress**: Continued with the google homepage challenge.
+
+**Thoughts** : Atleast I can now relate with some CSS properties and with practice and more learning I'll familiarize myself well.
+
 <!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
 
 **Link(s) to work**
