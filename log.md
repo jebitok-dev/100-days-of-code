@@ -38,6 +38,12 @@
 
 **Thoughts** : should intergrate freecodecamp curriculum to my days of code and write articles consistently to build my skills
 
+### Day 5: September 29, 2020
+
+**Today's Progress**: Resumed back where I had left some month ago on freecodecamp I finished the react section and started the redux part.
+
+**Thoughts**: still have to get back to react-redux concepts and feeling more stable with FCC its good to continue with the curriculum
+
 <!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
 
 **Link(s) to work**
