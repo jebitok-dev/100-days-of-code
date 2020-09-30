@@ -44,6 +44,15 @@
 
 **Thoughts**: still have to get back to react-redux concepts and feeling more stable with FCC its good to continue with the curriculum
 
+
+### Day 6: September 30, 2020
+
+**Today's Progress**: covered the redux section of FCC
+
+**Thoughts**: keep learning atleast an hour a day for the it will be helpful for self 
+
+** links **: https://www.freecodecamp.org/sharonjebitok
+
 <!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
 
 **Link(s) to work**
