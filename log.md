@@ -53,6 +53,13 @@
 
 ** links **: https://www.freecodecamp.org/sharonjebitok
 
+### Day 7: October 1, 2020
+
+**Today's Progress**: spent most day checking on hacktoberfest issues to contribute to and planning the SCA mentorship program
+
+**Thoughts**: have to skill work on achieve the goal as I'll be spending next 3 months guiding on JS.
+
+
 <!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
 
 **Link(s) to work**
