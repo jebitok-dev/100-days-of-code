@@ -59,6 +59,11 @@
 
 **Thoughts**: have to skill work on achieve the goal as I'll be spending next 3 months guiding on JS.
 
+### Day 8 & 9: October 2, 3, 2020
+
+**Today's Progress**: redux section of fcc
+
+**Thoughts**: have to skill work on achieve the goal as I'll be spending next 3 months guiding on JS.
 
 <!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
 
