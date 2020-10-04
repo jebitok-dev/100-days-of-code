@@ -65,6 +65,15 @@
 
 **Thoughts**: have to skill work on achieve the goal as I'll be spending next 3 months guiding on JS.
 
+
+### Day 10: October 4, 2020
+
+**Today's Progress**: redux- actions & action creators section of fcc - 
+
+**Thoughts**:Keep on consulting react-redux doc.*
+
+** Links: https://github.com/jebitok-dev/odin/tree/develop
+
 <!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
 
 **Link(s) to work**
