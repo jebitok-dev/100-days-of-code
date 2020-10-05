@@ -74,6 +74,17 @@
 
 ** Links: https://github.com/jebitok-dev/odin/tree/develop
 
+### Day 11: October 5, 2020
+
+**Today's Progress**: still covered the redux section and worked on issues that I was assigned & made two PRs that were merged 
+
+**Thoughts**:FCC is helpful and realized some open-source projects don't have to be coding. It was cool listening and editing the Machine Learning Interview.*
+
+** Links: https://github.com/jebitok-dev/odin/tree/develop
+** Links: https://github.com/emmalearnscode/guide-to-HF/pull/64
+** Links: https://github.com/mgreiler/se-unlocked/pull/30
+
+
 <!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
 
 **Link(s) to work**
