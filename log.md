@@ -80,6 +80,12 @@
 
 **Thoughts**:FCC is helpful and realized some open-source projects don't have to be coding. It was cool listening and editing the Machine Learning Interview.*
 
+### Day 12, 13: October 6/7, 2020
+
+**Today's Progress**: Finished the redux section of FCC will progress to the next section and made a contribution to OS project that had been assigned to it was merged
+
+**Thoughts**: Keep trying to assign time for the challenge and add up the 30day JS projects from tommorow to add on the chalenge 
+
 ** Links: https://github.com/jebitok-dev/odin/tree/develop
 ** Links: https://github.com/emmalearnscode/guide-to-HF/pull/64
 ** Links: https://github.com/mgreiler/se-unlocked/pull/30
