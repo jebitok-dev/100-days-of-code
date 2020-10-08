@@ -86,6 +86,15 @@
 
 **Thoughts**: Keep trying to assign time for the challenge and add up the 30day JS projects from tommorow to add on the chalenge 
 
+### Day 14: October 8, 2020
+
+**Today's Progress**: Started the react-redux project and WesBos drum kit. 
+
+**Thoughts**: Learning can be productive and overwhelming at the same time.
+
+**Link**: https://codesandbox.io/s/flamboyant-yalow-n2db0?file=/index.html
+
+
 ** Links: https://github.com/jebitok-dev/odin/tree/develop
 ** Links: https://github.com/emmalearnscode/guide-to-HF/pull/64
 ** Links: https://github.com/mgreiler/se-unlocked/pull/30
