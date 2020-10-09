@@ -94,6 +94,15 @@
 
 **Link**: https://codesandbox.io/s/flamboyant-yalow-n2db0?file=/index.html
 
+### Day 15: October 9, 2020
+
+**Today's Progress**: continued with the react-redux project . 
+
+**Thoughts**: Learning can be productive and overwhelming at the same time.
+
+<!-- **Link**: https://codesandbox.io/s/flamboyant-yalow-n2db0?file=/index.html -->
+
+
 
 ** Links: https://github.com/jebitok-dev/odin/tree/develop
 ** Links: https://github.com/emmalearnscode/guide-to-HF/pull/64
