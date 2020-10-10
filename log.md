@@ -108,9 +108,14 @@
 ** Links: https://github.com/emmalearnscode/guide-to-HF/pull/64
 ** Links: https://github.com/mgreiler/se-unlocked/pull/30
 
+### Day 16: October 10, 2020
+
+**Today's Progress**: used createStore on redux for the project and weekly hashnode article for this week 
+
+**Thoughts**: keeping going and embracing art of resilence in the availabe projects to ensure I dont loose it on the way.
 
 <!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
 
-**Link(s) to work**
+<!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
