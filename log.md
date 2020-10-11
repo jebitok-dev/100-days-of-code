@@ -112,10 +112,9 @@
 
 **Today's Progress**: used createStore on redux for the project and weekly hashnode article for this week 
 
-**Thoughts**: keeping going and embracing art of resilence in the availabe projects to ensure I dont loose it on the way.
+**Thoughts**: keeping going and embracing art of resilence in the available projects to ensure I don't loose it on the way.
 
-<!-- I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
+### Day 17: October 11, 2020
 
-<!-- **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Today's Progress**: Did the first project of wesbos 30 JavaScript Projects and covered <Provider/> on react-redux project.
+
