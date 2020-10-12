@@ -118,3 +118,8 @@
 
 **Today's Progress**: Did the first project of wesbos 30 JavaScript Projects and covered <Provider/> on react-redux project.
 
+
+#### Day 18: October 12, 2020
+
+**Today's Progress**: Covered mapStateToProps and mapDispatchToState for react-redux challenge then worked on one PR that was merged
+
