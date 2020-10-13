@@ -123,3 +123,8 @@
 
 **Today's Progress**: Covered mapStateToProps and mapDispatchToState for react-redux challenge then worked on one PR that was merged
 
+### Day 19: October 13, 2020
+
+**Today's Progress**: Finished the react-redux challenge and placed the refactored code together. Starting first Front-end Frameworks project on FCC x Codepen.io
+
+**Thoughts**: We keep on and try making use of Pomodoro technique and at least 1 hour per day for productivity measure.
