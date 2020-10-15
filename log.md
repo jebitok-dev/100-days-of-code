@@ -135,3 +135,11 @@
 
 **Link**: https://codepen.io/Jsebitok/pen/YzWwqdo
 
+### Day 21: October 15, 2020
+
+**Today's Progress**: Concentrated more on publishing and article and started working on react for the random quote generator
+
+**Thoughts**: BUrnout is real and should to balance and not procastinate
+
+**Links**: https://codepen.io/Jsebitok/pen/YzWwqdo
+            https://jebitok.hashnode.dev/github-monthly-africa-meetup-ckgb99s2j02j1o9s10r9o2wji
