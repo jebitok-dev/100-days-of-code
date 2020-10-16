@@ -143,3 +143,11 @@
 
 **Links**: https://codepen.io/Jsebitok/pen/YzWwqdo
             https://jebitok.hashnode.dev/github-monthly-africa-meetup-ckgb99s2j02j1o9s10r9o2wji
+
+### Day 22: October 16, 2020
+
+**Today's Progress**: created on PR for SE unlocked podcast and use create-react-app to create random machine
+
+**Thoughts**: keeping phone's internet off and listening to music to increase produvtivity
+
+
