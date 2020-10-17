@@ -151,3 +151,8 @@
 **Thoughts**: keeping phone's internet off and listening to music to increase produvtivity
 
 
+### Day 23: October 17, 2020
+
+**Today's Progress**: continued with random quote machine though had challenges bringing in the fetch api for quotes 
+
+**Thoughts**: I should constantly working with create-react-app
