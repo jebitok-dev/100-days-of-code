@@ -156,3 +156,10 @@
 **Today's Progress**: continued with random quote machine though had challenges bringing in the fetch api for quotes 
 
 **Thoughts**: I should constantly working with create-react-app
+
+
+### Day 24: October 18, 2020
+
+**Today's Progress**: did some algorithms task for reversestring and mising positive as well as starting backend project using nodejs & mysql
+
+**Thoughts**: required to use Java instead of JS but i just used js and this challenge need different stack
