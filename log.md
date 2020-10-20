@@ -163,3 +163,14 @@
 **Today's Progress**: did some algorithms task for reversestring and mising positive as well as starting backend project using nodejs & mysql
 
 **Thoughts**: required to use Java instead of JS but i just used js and this challenge need different stack
+
+### Day 25: October 19, 2020
+
+**Today's Progress**: preoccupied with mysql and nodejs task/project. Learnt how to create database, tables, fetch post(s) Update and delete posts;
+**Thoughts**: should wrap my head more on backend development and still practice more algorithms
+
+### Day 26: October 20, 2020
+
+**Today's Progress**: attended Github-Africa meetup learnt more about OSS docs, contributions and GitHub actions and working on part of web page
+**Thoughts**: time planning and avoiding last minute rush
+
