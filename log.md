@@ -174,3 +174,7 @@
 **Today's Progress**: attended Github-Africa meetup learnt more about OSS docs, contributions and GitHub actions and working on part of web page
 **Thoughts**: time planning and avoiding last minute rush
 
+### Day 27: October 21, 2020
+
+**Today's Progress**: Took time working on CFG project especia;;y the navbar
+**Thoughts**: practice is everything to achieve or to retain most skills as a developer.
