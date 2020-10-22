@@ -178,3 +178,10 @@
 
 **Today's Progress**: Took time working on CFG project especia;;y the navbar
 **Thoughts**: practice is everything to achieve or to retain most skills as a developer.
+
+oughts**: time planning and avoiding last minute rush
+
+### Day 28: October 22, 2020
+
+**Today's Progress**: Was trying to summarize and paraphrase data structures we learnt earlier on as well deploying old react app.
+**Thoughts**: there are days productivity will differ but prioritize your mental health
