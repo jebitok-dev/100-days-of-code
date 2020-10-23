@@ -185,3 +185,9 @@ oughts**: time planning and avoiding last minute rush
 
 **Today's Progress**: Was trying to summarize and paraphrase data structures we learnt earlier on as well deploying old react app.
 **Thoughts**: there are days productivity will differ but prioritize your mental health
+
+### Day 29: October 23, 2020
+
+**Today's Progress**: completed the carousel navbar and started styling the other sections will proceed to work on general styling on combining all sections and finished data structures article.
+
+**Thoughts**: consulting stackoverflow can be helpful the little answers can be of great help
