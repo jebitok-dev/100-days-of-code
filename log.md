@@ -191,3 +191,13 @@ oughts**: time planning and avoiding last minute rush
 **Today's Progress**: completed the carousel navbar and started styling the other sections will proceed to work on general styling on combining all sections and finished data structures article.
 
 **Thoughts**: consulting stackoverflow can be helpful the little answers can be of great help
+
+### Day 30: October 24, 2020
+
+**Today's Progress**: continue with the web pages project fixed the collapse for phone and moved to homepage
+
+
+**Thoughts**: it takes time, practice and googling good materials.
+
+**Links**: https://womenintech.netlify.app
+
