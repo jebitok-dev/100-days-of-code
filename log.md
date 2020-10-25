@@ -201,3 +201,9 @@ oughts**: time planning and avoiding last minute rush
 
 **Links**: https://womenintech.netlify.app
 
+### Day 31: October 25, 2020
+
+**Today's Progress**: worked on hashnode article for previous github africa event
+
+**Thoughts**: After we finish with CFG presentation I'LL resume to FCC project 
+**Links**: https://jebitok.hashnode.dev/octobers-github-africa-virtual-meetup-ckgpjenz207ydncs1gauq41pf
