@@ -207,3 +207,12 @@ oughts**: time planning and avoiding last minute rush
 
 **Thoughts**: After we finish with CFG presentation I'LL resume to FCC project 
 **Links**: https://jebitok.hashnode.dev/octobers-github-africa-virtual-meetup-ckgpjenz207ydncs1gauq41pf
+### Day 32: October 26, 2020
+
+**Today's Progress**: combined all our Women in Tech project
+**Thoughts**: the whole thing has been helpful in getting how to work with bootstrap and css
+
+### Day 33: October 27, 2020
+
+**Today's Progress**: little progress achieved had challenge updating my ubuntu operating system just adjust little of the women in tech project via phone browser 
+**Thoughts**: beyond being a developer I should learn how to properly update and install my OS or that of anyone else
