@@ -216,3 +216,24 @@ oughts**: time planning and avoiding last minute rush
 
 **Today's Progress**: little progress achieved had challenge updating my ubuntu operating system just adjust little of the women in tech project via phone browser 
 **Thoughts**: beyond being a developer I should learn how to properly update and install my OS or that of anyone else
+
+### Day 34: October 28, 2020
+
+**Today's Progress**: spent most of day setting up my pc by installing browsers and vs code then finalized the women in tech project before presenting. This marks end of codefirstgirls program
+**Thoughts**: from the installation part I had great challenge installing vs code and this made me remember the essence of mastering the ubuntu installation processes(sudo apt install .. after downloading the package)
+
+Since codefirstgirls is over its time to plan better for my daily challenge and optimize past days I've put more effort on the project.
+
+links: womenintechn.netlify.app or https://i3q5x.csb.app/
+
+
+### Day 35: October 29, 2020
+
+**Today's Progress**: I was unable to write more code today but wrote two technical writing articles that were pending
+**Thoughts**: I'm hoping to wake up early tommorow inorder to solve the front-end projects on FCC challenges within a week.
+
+links: https://jebitok.hashnode.dev/skills-that-got-them-promoted-into-senior-developers-positions-ckgv8n69j00d7b0s1eyfa1fmh
+
+https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z70048bxs173r0ev5iv
+
+
