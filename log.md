@@ -232,8 +232,12 @@ links: womenintechn.netlify.app or https://i3q5x.csb.app/
 **Today's Progress**: I was unable to write more code today but wrote two technical writing articles that were pending
 **Thoughts**: I'm hoping to wake up early tommorow inorder to solve the front-end projects on FCC challenges within a week.
 
-links: https://jebitok.hashnode.dev/skills-that-got-them-promoted-into-senior-developers-positions-ckgv8n69j00d7b0s1eyfa1fmh
+**links**: https://jebitok.hashnode.dev/skills-that-got-them-promoted-into-senior-developers-positions-ckgv8n69j00d7b0s1eyfa1fmh
 
 https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z70048bxs173r0ev5iv
 
+### Day 36: October 30, 2020
 
+**Today's Progress**: Fixed the random quote machine using bootstrap 
+**Thoughts**: The problem I've to bring in react since the quote machine requires the use of quote API.
+**Link**: https://codepen.io/Jsebitok/pen/YzWwqdo
