@@ -241,3 +241,9 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**: Fixed the random quote machine using bootstrap 
 **Thoughts**: The problem I've to bring in react since the quote machine requires the use of quote API.
 **Link**: https://codepen.io/Jsebitok/pen/YzWwqdo
+
+### Day 37: October 31, 2020
+
+**Today's Progress**: contrubutes abit to figma design
+**Thoughts**: There is alot of design concepts I should learn and collaborate more without doubting myself inorder to learn from userflow, wireframes, design system and high fidelity product
+
