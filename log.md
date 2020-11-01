@@ -247,3 +247,8 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**: contrubutes abit to figma design
 **Thoughts**: There is alot of design concepts I should learn and collaborate more without doubting myself inorder to learn from userflow, wireframes, design system and high fidelity product
 
+
+### Day 38: November 1, 2020
+
+**Today's Progress**: listening to few episodes of #100daysofcode motivation podcast by treehouse, wrote last October article then backdated.
+**Thoughts**: I'll be starting building the markdowns react project Tomorrow and need to put up more hours for  code
