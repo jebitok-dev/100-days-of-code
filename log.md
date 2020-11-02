@@ -252,3 +252,11 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 
 **Today's Progress**: listening to few episodes of #100daysofcode motivation podcast by treehouse, wrote last October article then backdated.
 **Thoughts**: I'll be starting building the markdowns react project Tomorrow and need to put up more hours for  code
+
+### Day 39: November 2, 2020
+
+**Today's Progress**: started learning nodejs using https://lab.github.com/everydeveloper/ resources. I covered from basic installation of express, GET & POST requests, installed postman and will starting testing the POST request I had covered
+
+**Thoughts**: It's been over 6montshs since I did backend but this course is helping me relate back already to the things we covered on nodejs
+
+**link**: https://github.com/jebitok-dev/node-express-course
