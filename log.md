@@ -257,6 +257,20 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 
 **Today's Progress**: started learning nodejs using https://lab.github.com/everydeveloper/ resources. I covered from basic installation of express, GET & POST requests, installed postman and will starting testing the POST request I had covered
 
-**Thoughts**: It's been over 6montshs since I did backend but this course is helping me relate back already to the things we covered on nodejs
+**Thoughts**: It's been over 6months since I did backend but this course is helping me relate back already to the things we covered on nodejs
 
 **link**: https://github.com/jebitok-dev/node-express-course
+
+### Day 40: November 3, 2020
+
+**Today's Progress**: completed the introduction to nodejs course after testing the POST request on postman
+**Thoughts**: I can now start relating back to somethings that were taught back then but still need practice and reading the documentation
+
+**link**: https://github.com/jebitok-dev/node-express-course
+
+### Day 41: November 4, 2020
+
+**Today's Progress**: started the intermediate nodejs course, set up it and installed robo3t. I had challenge getting test results on postman but I'll be mongoose Docs tommorow to correct the error that cameup
+**Thoughts**: Nodejs is cool I shouldn't stay without doing backend like the way I've been paying more attention on frontend I should try to equalize.
+
+**link**: https://github.com/jebitok-dev/intermediate-node-course/
