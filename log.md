@@ -274,3 +274,11 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Thoughts**: Nodejs is cool I shouldn't stay without doing backend like the way I've been paying more attention on frontend I should try to equalize.
 
 **link**: https://github.com/jebitok-dev/intermediate-node-course/
+
+### Day 42: November 5, 2020
+
+
+**Today's Progress**: Went through the .get, .put, .post, .delete requests/routes and tested each of the requests using postman then refactored code at the end. Starting the create REST server with NOdejs and Express course still on Learning Labs
+**Thoughts**: Realized yesterday's issues wasn't wrong the postman connection was working well and I'm starting to relate back to nodejs I'll continue putting put effort on my backend skills
+
+**link**: https://github.com/jebitok-dev/hyf-homework-nodejs-3/
