@@ -282,3 +282,11 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Thoughts**: Realized yesterday's issues wasn't wrong the postman connection was working well and I'm starting to relate back to nodejs I'll continue putting put effort on my backend skills
 
 **link**: https://github.com/jebitok-dev/hyf-homework-nodejs-3/
+
+### Day 43: November 6, 2020
+
+
+**Today's Progress**: set-up the teamwork repo & project board then added user stories for To-Do on github. Did the assessment for React and Nodejs on Pluralsight. Did asynchronous (callback , promises & emittors) on node in pluralsight for the gaps recommended lessons
+**Thoughts**: I've improved on React scale but have alot of gaps on NOdejs part.
+
+**link**: https://app.pluralsight.com/score/skill-assessment/
