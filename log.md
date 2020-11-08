@@ -298,3 +298,11 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**: started installing eslint & prostgres for teamwork then did the open-source project for SE-unlocked podcast and finished with assessment test for CSS & html,css & JavaScript combined on PLuralsight
 **Thoughts**: It have gaps on the tests, finish up with JS test tommorow then contemplating on using MongoDB instead of Postgresql for teamwork if its possible. Two articles behind on Hashnode and running out of ideas.
 **link**: https://app.pluralsight.com/score/skill-assessment/
+
+### Day 45: November 8, 2020
+
+**Today's Progress**: Wrote one article, did last assessment for JavaScript the score was average but will just wait for feedback.
+**Thoughts**: Sunday productivity ws low but hoping to start new week recharged up.Hashnode's bootcamp starting tomorrow target to attend nearly all of them on time
+
+**link**: https://app.pluralsight.com/score/skill-assessment/
+
