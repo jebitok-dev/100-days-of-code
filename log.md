@@ -306,3 +306,7 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 
 **link**: https://app.pluralsight.com/score/skill-assessment/
 
+### Day 46: November 9, 2020
+
+**Today's Progress**: Didn't do any coding took the day to reflect over stuff and got some feedback on relation to assessment result and need to cover up gaps inorder to retake some tests.
+**Thoughts**: Bad day missed first bootcamp session, will update my CV and hopefully do some nodejs tommorow
