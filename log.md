@@ -310,3 +310,9 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 
 **Today's Progress**: Didn't do any coding took the day to reflect over stuff and got some feedback on relation to assessment result and need to cover up gaps inorder to retake some tests.
 **Thoughts**: Bad day missed first bootcamp session, will update my CV and hopefully do some nodejs tommorow
+
+### Day 47: November 10, 2020
+
+**Today's Progress**: Started going through NetninjaUk's nodejs crash course and hoping to finish it within this week
+**Thoughts**: burnout is real should always remember that
+**Link**: 
