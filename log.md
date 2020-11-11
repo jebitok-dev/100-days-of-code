@@ -316,3 +316,9 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**: Started going through NetninjaUk's nodejs crash course and hoping to finish it within this week
 **Thoughts**: burnout is real should always remember that
 **Link**: 
+
+### Day 48: November 11, 2020
+
+**Today's Progress**: Still on nodejs intro covered the file system and OS. Attended hashnode QA session and wrote 1 article
+**Thoughts**: I have 2 articles pending, moveon with nodejs, n remember to be on track
+**Link**: 
