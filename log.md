@@ -322,3 +322,9 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**: Still on nodejs intro covered the file system and OS. Attended hashnode QA session and wrote 1 article
 **Thoughts**: I have 2 articles pending, moveon with nodejs, n remember to be on track
 **Link**: 
+
+### Day 49: November 12, 2020
+
+**Today's Progress**:  covered Node.js http, port number, paths, status code, switch statement and linking server.js to HTML file/text.
+**Thoughts**: Wonderful learning experience should focus more on remaining as Microverse is soon starting meaning fulltime learning
+**Link**: 
