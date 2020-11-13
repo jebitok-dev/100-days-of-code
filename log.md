@@ -328,3 +328,9 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**:  covered Node.js http, port number, paths, status code, switch statement and linking server.js to HTML file/text.
 **Thoughts**: Wonderful learning experience should focus more on remaining as Microverse is soon starting meaning fulltime learning
 **Link**: 
+
+### Day 50: November 13, 2020
+
+**Today's Progress**:  started exercising the 10days of JavaScript on Hackerrank tried to understand how the blog explains the questions and I should implement
+**Thoughts**: since Microverse is starting in a week's time I should try get comfortable with it.
+**Link**: https://www.hackerrank.com/challenges/js10-let-and-const/problem
