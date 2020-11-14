@@ -334,3 +334,9 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**:  started exercising the 10days of JavaScript on Hackerrank tried to understand how the blog explains the questions and I should implement
 **Thoughts**: since Microverse is starting in a week's time I should try get comfortable with it.
 **Link**: https://www.hackerrank.com/challenges/js10-let-and-const/problem
+
+### Day 51: November 14, 2020
+
+**Today's Progress**:  did a challenge for the #10daysofJavaScript on Hackerrank and started working on figma design for the Hackathon coming up this week.
+**Thoughts**: the week was amazing though feeling need to get some rest this weekend before another busy week
+**Link**: https://www.hackerrank.com/challenges/js10/
