@@ -346,3 +346,9 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**:  continued with node.js. Covered installing of third party packages, used nodemon to automatically start server when refreshed, explored some lodash methods and started an express app.
 **Thoughts**: been sleeping on node.js but at least i still remember some concepts and stack-overflow can still be saviour when I encounter errors esp those of installations 
 **Link**: 
+
+### Day 53: November 16, 2020
+
+**Today's Progress**:  covered routing and html & ejs - view template on express and started the hackathon app
+**Thoughts**: having more anxiety due to few days to fulltime class so its okay to feel not okay and to take more time away from a lot of code.
+**Link**: 
