@@ -352,3 +352,9 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**:  covered routing and html & ejs - view template on express and started the hackathon app
 **Thoughts**: having more anxiety due to few days to fulltime class so its okay to feel not okay and to take more time away from a lot of code.
 **Link**: 
+
+### Day 54: November 17, 2020
+
+**Today's Progress**:  covered ejs tags and how to create new blogs on express using ejs template
+**Thoughts**: few days to microverse officially rest if possible
+**Link**: 
