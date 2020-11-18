@@ -358,3 +358,9 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**:  covered ejs tags and how to create new blogs on express using ejs template
 **Thoughts**: few days to microverse officially rest if possible
 **Link**: 
+
+### Day 55: November 18, 2020
+
+**Today's Progress**:  wrote one article and continued with ejs methods and used together with ordinary js 
+**Thoughts**: few days to microverse officially rest if possible
+**Link**: 
