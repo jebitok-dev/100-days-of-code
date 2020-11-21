@@ -364,3 +364,21 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Today's Progress**:  wrote one article and continued with ejs methods and used together with ordinary js 
 **Thoughts**: few days to microverse officially rest if possible
 **Link**: 
+
+### Day 56: November 19, 2020
+
+**Today's Progress**: covered middleware with .next, installed morgan the third party middleware, used static middleware that's inbuilt on express
+**Thoughts**: learnt much on nodejs suppose to start mongo client 
+**Link**: 
+
+### Day 57: November 20, 2020
+
+**Today's Progress**: onboarding session on microverse & met with coding partner 
+**Thoughts**: coding the whole can be exhaustive, the program might be hard but have to put my all.
+**Link**: 
+
+### Day 58: November 21, 2020
+
+**Today's Progress**:  took time to rest, and rectify microphone issue
+**Thoughts**: new life has started we keep trying and working
+**Link**: 
