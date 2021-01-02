@@ -386,8 +386,8 @@ https://jebitok.hashnode.dev/code-first-girls-summer-course-experience-ckgv6j8z7
 **Days Progress**: Started microverse Program with HTML5 & CSS module. Learnt the html semantic tags, css positioning, flexbox, grid system and bootstrap. 
 **Thoughts**: The whole period was worthwhile learning, doing 3 collaborative projects that were approved with 3 different coding partners on 3 different weeks and one 
 Solo project that I'll be redoing next week inorder to have it approved.
-**Links**: [NYT clone](https://aymenbida.github.io/New-York-Times-Project/)
-[NewsWeek clone](https://leandro-barretoo.github.io/project3-bootstrap/)
+**Links**: [NYT clone](https://aymenbida.github.io/New-York-Times-Project/), 
+[NewsWeek clone](https://leandro-barretoo.github.io/project3-bootstrap/), 
 [NextWeb clone](https://jebitok-dev.github.io/NextWeb-RWD/)
 
 ### Day 59: January 2, 2021
