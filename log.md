@@ -391,6 +391,49 @@ Solo project that I'll be redoing next week inorder to have it approved.
 [NextWeb clone](https://jebitok-dev.github.io/NextWeb-RWD/)
 
 ### Day 59: January 2, 2021
-**Today's Progress**: Today started the codelabs' Introduction to Ruby course installed ruby and wrote hello world using ruby.
+**Today's Progress**: Today started the github learninglab' Introduction to Ruby course installed ruby and wrote hello world using ruby.
 **Thoughts**: Its interesting how its slightly different from the ordinary JavaScript.
 **links**:
+
+### Day 60: January 3, 2021
+**Today's Progress**: Started collecting resources and repository for btc resources & information project as a side project 
+**Thoughts**: I'll work on the side project when I have time or come across relevant information 
+
+### Day 61: January 4, 2021
+**Today's Progress**: resumed Learning at microverse and went back to work on capstone project requested changes from code review 
+**Thoughts**: made learn more of css and html skills
+**Links**:
+
+### Day 62: January 5, 2021
+**Today's Progress**: requested for code review and got changes requested 
+**Thoughts**: code review is educative to the extent that one can get discouraged 
+**Links**:
+
+### Day 63: January 6, 2021
+**Today's Progress**: worked on changes requested for my capstone project and got other changes requested 
+**Thoughts**: this helped me play around and master some bootstrap and css concepts 
+**Links**:
+
+### Day 64: January 7, 2021
+**Today's Progress**: worked on the requested changes to my capstone project then requested for changes and got my project approved 
+**Thoughts**: Asking for help for help from standup team is necessary especially here at microverse 
+**Links**:
+
+
+### Day 65: January 8, 2021
+**Today's Progress**: worked on 4 data structures and algorithms from hackerrank 
+**Thoughts**: I still have to practice alot to understand how to properly handle algorithms 
+**Links**:
+
+### Day 66: January 9, 2021
+**Today's Progress**: continue with ruby methods in the introduction to ruby course 
+**Thoughts**: not understood well but hopefully I'll catch up over this week
+**Links**:
+
+### Day 68: January 10, 2021
+**Today's Progress**: covered the if n else statement on ruby course and ended it
+**Thoughts**: the course was just in preparation of microverse course
+**Links**:
+
+
+
