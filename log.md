@@ -438,8 +438,11 @@ Solo project that I'll be redoing next week inorder to have it approved.
 ### Day 69: January 11, 2021
 
 ```
-Always code as if the guy who ends up maintaining 
-your code will be a violent psychopath who knows
+Always code as if the guy 
+who ends up maintaining 
+your code will be a 
+violent psychopath 
+who knows
 where you live
 
 ```
