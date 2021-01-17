@@ -436,6 +436,8 @@ Solo project that I'll be redoing next week inorder to have it approved.
 **Links**:
 
 ### Day 69: January 11, 2021
+**Today's Progress**: covered basic data types on ruby - numbers, floats & integers, strings, symbols etc
+**Thoughts**:
 
 ```
 Always code as if the guy 
@@ -447,5 +449,34 @@ where you
 live
 
 ```
+### Day 70: January 12, 2021
+**Today's Progress**: covered input & output in ruby - (print, gets, separator, chomp method), loops(while/for/times/until/upto&down-to loops)
+**Thoughts**: ruby is almost like Javascript just that it's made up of very summarized code.
+**Links**:
+
+### Day 71: January 13, 2021
+**Today's Progress**: covered conditional logic()
+**Thoughts**: 
+**Links**:
+
+### Day 72: January 14, 2021
+**Today's Progress**: covered the if n else statement on ruby course and ended it
+**Thoughts**: the course was just in preparation of microverse course
+**Links**:
+
+### Day 73: January 15, 2021
+**Today's Progress**: covered the if n else statement on ruby course and ended it
+**Thoughts**: the course was just in preparation of microverse course
+**Links**:
+
+### Day 74: January 16, 2021
+**Today's Progress**: covered the if n else statement on ruby course and ended it
+**Thoughts**: the course was just in preparation of microverse course
+**Links**:
+
+### Day 75: January 17, 2021
+**Today's Progress**: covered the if n else statement on ruby course and ended it
+**Thoughts**: the course was just in preparation of microverse course
+**Links**:
 
 
